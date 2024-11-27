@@ -12,7 +12,7 @@
 
 - 🎓 2nd Computer Science student at Kasetsart University, Thailand
 - 🔗 Passionate about Blockchain, Web3.0, and Solidity Development
-- 🤖 Experience in Software, Web, Machine Learning projects and Competitive Programming
+- 🤖 Experience in Software, Web, Machine Learning projects and Hackathon competitions
 - 💻 Currently focusing Full-stack Web Development
 - 🌱 Always open to learning and collaborating on interesting projects
 - 💼 Looking for internship opportunities in Software Development
